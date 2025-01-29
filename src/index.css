@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  /* primary */
+
+  --color-Bright-orange: #e38826;
+  --color-Dark-cyan: #006970;
+  --color-Very-dark-cyan: #004241;
+
+  /* neutral */
+  --color-White: #ffffff; /*paragraphs*/
+  --color-Light-gray: #f2f2f2; /*background, headings, buttons*/
+
+  /* font */
+
+  --font-display: "Lexend Deca", serif; /*paragraphs*/
+  --font-heading: "Big Shoulders Display", serif; /*headings*/
+}
